@@ -10,6 +10,7 @@
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
+      "entryPoint": "App.js", 
       "backgroundColor": "#ffffff"
     },
     "ios": {
